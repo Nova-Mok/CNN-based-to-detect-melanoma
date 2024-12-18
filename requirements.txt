@@ -1,0 +1,7 @@
+tensorflow-macos==2.10.1
+tensorflow-metal  # Optional for Apple Silicon
+matplotlib==3.7.1
+numpy==1.24.4
+pandas==1.5.3
+pathlib==1.0.1
+Augmentor==0.2.10
