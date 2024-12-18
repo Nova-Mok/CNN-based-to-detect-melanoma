@@ -79,4 +79,6 @@
   - Tutorials on data augmentation and CNN model building
 
 ## Contact
-Created by [@githubusername] - feel free to contact me for further details or collaboration!
+Created by [@Novamok] - feel free to contact me for further details or collaboration!
+
+## Files with answer is 
